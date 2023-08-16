@@ -1,8 +1,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-<p align="center" dir="auto">
-  <a align="center" href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/1e16c9b33995f3b46b2b54671062fe4b1995348c2aa6b94b7eaca93d3922a55d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465266475726174696f6e3d333030302670617573653d313030302677696474683d343335266c696e65733d536f6674776172652b456e67696e6565722b3b436f6d6d756e6974792b4275696c6465723b46726f6e742b456e642b446576656c6f7065723b477261706869632b44657369676e65723b436f6d70657469746976652b50726f6772616d6d6572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;duration=3000&amp;pause=1000&amp;width=435&amp;lines=Web+Developer+;Front+End+Developer;Competitive+Programmer;Full+Stack+Web Developer" style="max-width: 100%;"></a>
-</p>
+
 
 # 💫 About Me:
 I am a quick learner who can work effectively independently and as part of a team. My decision-making abilities are decent, and I have experience with several programming languages such as C, C++, C#, JavaScript, and Java (OOPS & Basics), as well as a foundational understanding of Python. I have also actively participated in solving over 150 Leetcode problems and am currently exploring competitive programming. I have a strong grasp of data structures and constantly strive to learn new concepts in this field.
