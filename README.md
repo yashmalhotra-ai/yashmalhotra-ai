@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 # 💫 About Me:
 I consider myself a quick learner who can work effectively both independently and as part of a team. My decision-making abilities are decent, and I have experience with several programming languages such as C, C++, C#, JavaScript, and Java (OOPS & Basics), as well as a foundational understanding of Python. I have also actively participated in solving over 150 Leetcode problems and am currently exploring competitive programming. I have a strong grasp of data structures and constantly strive to learn new concepts in this field.
 
